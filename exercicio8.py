@@ -1,0 +1,8 @@
+#refazer o exercicio6 usando o while
+i=1
+while i <=500:
+    if i %2!=0:
+        print (i)
+    i+=1
+
+
